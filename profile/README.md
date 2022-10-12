@@ -1,12 +1,12 @@
-## Hi there 👋
+## ⚔️ LibreMatch
 
-<!--
+### 🙋‍♀️ Introduction
+LibreMatch is a project to create a stable, reliable and feature-rich API for match 
+information, leaderboards, and tournament organisation for the Age of 
+Empires multiplayer platform Relic Link.
 
-**Here are some ideas to get you started:**
+### 📞 Contact
+It is done **by the community for the community** - so feel free to join us on our [Discord](https://discord.gg/MvuusBxtuB) if you have any suggestions, feature requests, found a bug, or if you really just want to talk to like-minded people.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👩‍💻 News
+We are currently working on desgning the API (synchronous), if you want to follow progress, you can do that [here](https://github.com/librematch/librematch-backend/pull/1) or in the forums on our [Discord](https://discord.gg/MvuusBxtuB).
